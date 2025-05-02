@@ -57,13 +57,3 @@ go build -o xordecrypt
 go test
 
 
-
-⸻
-
-🚀 roadmap (?)
-	•	support multibyte bruteforce
-	•	smarter scoring / autoclassify results
-	•	tui / curses mode for interactive decoding
-
----
-
