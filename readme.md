@@ -1,9 +1,3 @@
-sí, aquí va — terse, clear, hacker-friendly, no bs:
-
-⸻
-
-📜 README.md
-
 # xordecrypt
 
 bruteforce xor decryptor for ciphertexts with known plaintext prefixes.
